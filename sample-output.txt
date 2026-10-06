@@ -1,0 +1,29 @@
+day1 {'inserted': 2, 'changed': 0, 'unchanged': 0, 'replayed': False}
+day2 {'inserted': 1, 'changed': 1, 'unchanged': 1, 'replayed': False}
+day3 {'inserted': 0, 'changed': 1, 'unchanged': 1, 'replayed': False}
+[
+  {
+    "route": "ATL-JFK",
+    "airline": "AA",
+    "fare_cents": 24000,
+    "currency": "USD",
+    "valid_from": "2026-01-01T00:00:00+00:00",
+    "valid_to": "2026-01-03T00:00:00+00:00"
+  },
+  {
+    "route": "ATL-JFK",
+    "airline": "DL",
+    "fare_cents": 23000,
+    "currency": "USD",
+    "valid_from": "2026-01-02T00:00:00+00:00",
+    "valid_to": null
+  },
+  {
+    "route": "SFO-LAX",
+    "airline": "UA",
+    "fare_cents": 18000,
+    "currency": "USD",
+    "valid_from": "2026-01-02T00:00:00+00:00",
+    "valid_to": null
+  }
+]

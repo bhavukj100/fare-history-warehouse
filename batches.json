@@ -1,0 +1,62 @@
+[
+  {
+    "batch_id": "day1",
+    "effective_at": "2026-01-01T00:00:00Z",
+    "fares": [
+      {
+        "route": "ATL-JFK",
+        "airline": "DL",
+        "fare_cents": 25000,
+        "currency": "USD"
+      },
+      {
+        "route": "ATL-JFK",
+        "airline": "AA",
+        "fare_cents": 24000,
+        "currency": "USD"
+      }
+    ]
+  },
+  {
+    "batch_id": "day2",
+    "effective_at": "2026-01-02T00:00:00Z",
+    "fares": [
+      {
+        "route": "ATL-JFK",
+        "airline": "DL",
+        "fare_cents": 23000,
+        "currency": "USD"
+      },
+      {
+        "route": "ATL-JFK",
+        "airline": "AA",
+        "fare_cents": 24000,
+        "currency": "USD"
+      },
+      {
+        "route": "SFO-LAX",
+        "airline": "UA",
+        "fare_cents": 18000,
+        "currency": "USD"
+      }
+    ]
+  },
+  {
+    "batch_id": "day3",
+    "effective_at": "2026-01-03T00:00:00Z",
+    "fares": [
+      {
+        "route": "ATL-JFK",
+        "airline": "DL",
+        "fare_cents": 23000,
+        "currency": "USD"
+      },
+      {
+        "route": "ATL-JFK",
+        "airline": "AA",
+        "fare_cents": 22000,
+        "currency": "USD"
+      }
+    ]
+  }
+]
